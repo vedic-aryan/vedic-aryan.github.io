@@ -7,20 +7,20 @@ url: "https://vedic-aryan.github.io" # the base hostname & protocol for your sit
 site-twitter:  #if your site has a twitter account, enter it here
 
 # Author Settings
-author: Aryan Rawat # add your name
-author-img: vedic-aryan.jpg # add your photo
-about-author: I'm a kids yoga practitioner in Australia # add description
-social-twitter:  # add your Twitter handle
-social-facebook: # add your Facebook handle
-social-github: vedic-aryan # ig handle
-social-linkedin: # add your Linkedin handle
-social-email:  # add your Email address
+author: Aryan Rawat
+author-img: vedic-aryan.jpg
+about-author: I'm a kids yoga practitioner in Australia and India
+social-twitter:
+social-facebook:
+social-github: vedic-aryan
+social-linkedin:
+social-email:
 
 # Disqus
-discus-identifier:  # add your discus identifier
+discus-identifier:
 
 # Tracker
-analytics: # Google Analytics
+analytics:
 
 # Build Settings
 markdown: kramdown
