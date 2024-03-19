@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Isha Upanishad verse 1 Recitation by Aryan
+title: Isha Upanishad Verse 1 Recitation by Aryan
 date: 2024-03-19 00:00:00 +0300
 description: Isha Upanishad shanti mantra and verse 1 recitation by @vedic-aryan 
 tags: [Upanishad, Vedas, Isha] # add tag
