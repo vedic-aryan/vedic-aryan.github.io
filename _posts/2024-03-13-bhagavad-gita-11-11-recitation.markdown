@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bhagavad Gita Recitation
+title: Bhagavad Gita Chapter 11 Verse 11 Recitation
 date: 2024-03-13 00:00:00 +0300
 description: Bhagavad Gita 11-11 by vedic-aryan. Chapter 11 Viśhwarūp Darśhan Yog (Yog through Beholding the Cosmic Form of God)
 tags: [Yoga, Bhagavad Gita, Recitation] # add tag
