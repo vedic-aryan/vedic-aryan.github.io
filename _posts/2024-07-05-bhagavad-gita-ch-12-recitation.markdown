@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bhagavad Gita Full Chapter 12 Recitation
+title: Bhagavad Gita Ch 12 Recitation
 date: 2024-07-05 00:00:00 +0300
 description: Full Chapter Bhagavad Gita Recitation by Aryan
 tags: [Yoga, Bhagavad Gita, Recitation] # add tag
